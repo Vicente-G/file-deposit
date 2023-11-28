@@ -1,0 +1,59 @@
+{
+  "name" : "SLC-wms Theme",
+  "description" : "A theme using clear colors and shapes for the WMS architecture.",
+  "elements" : [ {
+    "tag" : "External",
+    "background" : "#d0a7ff",
+    "color" : "#000000",
+    "shape" : "Box",
+    "metadata" : false
+  }, {
+    "tag" : "Context",
+    "background" : "#69beff",
+    "color" : "#000000",
+    "shape" : "Box",
+    "metadata" : false
+  }, {
+    "tag" : "Container",
+    "background" : "#95d1fe",
+    "color" : "#000000",
+    "shape" : "Box",
+    "metadata" : false
+  }, {
+    "tag" : "Database",
+    "background" : "#95d1fe",
+    "color" : "#000000",
+    "shape" : "Cylinder",
+    "metadata" : false
+  }, {
+    "tag" : "Mobile",
+    "background" : "#8af0ac",
+    "color" : "#000000",
+    "shape" : "MobileDevicePortrait",
+    "metadata" : false
+  }, {
+    "tag" : "Desktop",
+    "background" : "#8af0ac",
+    "color" : "#000000",
+    "shape" : "WebBrowser",
+    "metadata" : false
+  }, {
+    "tag" : "Component",
+    "background" : "#bde3ff",
+    "color" : "#000000",
+    "shape" : "Box",
+    "metadata" : false
+  }, {
+    "tag" : "Group",
+    "background" : "#f9d055",
+    "color" : "#000000",
+    "shape" : "Person",
+    "metadata" : false
+  }, {
+    "tag" : "Employee",
+    "background" : "#ffe8a3",
+    "color" : "#000000",
+    "shape" : "Person",
+    "metadata" : false
+  } ]
+}
